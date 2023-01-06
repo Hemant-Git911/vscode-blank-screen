@@ -1,0 +1,2 @@
+# vscode-blank-screen
+solution
